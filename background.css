@@ -1,0 +1,29 @@
+h1 {
+    color: aquamarine;
+    background-color: blue;
+}
+ .img {
+    background-image: url(/image/1661701576965.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:750px;
+    width: 546px;
+ }
+ .first {
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    text-align: center;
+ }
+ .second {
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    text-align: end;
+    font-size: 100px;
+ }
+ .third {
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+ }
